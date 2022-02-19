@@ -15,7 +15,7 @@ In this project, I implemented the physical layer (PHY) of the well-known WLAN s
 | 3 | Interleaving and de-interleaving
 | 4 | Integration and matching
 
-<img src="https://user-images.githubusercontent.com/94138466/154808659-5b998afa-669d-450a-bc04-808cc2bdbb4b.png" width=80% height=80%>
+<img src="https://user-images.githubusercontent.com/94138466/154808659-5b998afa-669d-450a-bc04-808cc2bdbb4b.png" width=100% height=100%>
 
 ### PPDU frame format:
 <img src="https://user-images.githubusercontent.com/94138466/154808730-dbb9f8c5-799f-4f18-a947-b7fd49901b3f.png" width=50% height=50%>
