@@ -18,7 +18,7 @@ In this project, I implemented the physical layer (PHY) of the well-known WLAN s
 | 4 | Integration and matching
 
 ### PPDU frame format:
-![image](https://user-images.githubusercontent.com/94138466/154808730-dbb9f8c5-799f-4f18-a947-b7fd49901b3f.png)
+<img src="https://user-images.githubusercontent.com/94138466/154808730-dbb9f8c5-799f-4f18-a947-b7fd49901b3f.png" width="150" height="280">
 
 ### Rate-dependent parameters:
 ![image](https://user-images.githubusercontent.com/94138466/154808766-c94a9843-a293-4e92-869b-cb7d3103be96.png)
