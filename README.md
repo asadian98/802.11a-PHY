@@ -35,7 +35,7 @@ In this project, I implemented the physical layer (PHY) of the well-known WLAN s
 ### Viterbi Decoder:
 <img src="https://user-images.githubusercontent.com/94138466/154808894-9c6338d6-4492-4200-90b5-3a17bd9b4b0a.png" width=40% height=40%>
 
-### Interleaving and de-interleaving (r = 2/3)
+### Interleaving and de-interleaving (r = 2/3) - Used FIFO for different rs:
 <img src="https://user-images.githubusercontent.com/94138466/154808947-3561ed04-a02d-49a9-a412-1384a5969634.png" width=50% height=50%>
 
 ### Transmitter:
